@@ -36,7 +36,7 @@ allprojects {
 Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.ozgurbyk:ShowCoordinatesOnDisplay:Tag'
+	        implementation 'com.github.ozgurbyk:ShowCoordinatesOnDisplay:1.0.0'
 	}
 ```
 
